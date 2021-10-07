@@ -1,4 +1,8 @@
 body {
-    color: aquamarine;
-
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    height: 70vh;
+    text-align: center;
+    
 }
